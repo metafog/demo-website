@@ -1,4 +1,4 @@
-# demo-website
+# Planetr Demo: demo-website
 Run a Webserver with a static dummy website on Planetr
 
 ## Docker usage on local machine 
