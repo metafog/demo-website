@@ -42,3 +42,7 @@ Check status again.
 $ planetr dcu-ps
 INSTANCE ID STATUS TYPE IMAGE NAME PORTS CREATED AT
 ```
+## Docker Build (If in case)
+```
+docker build -t demo-website .
+```
