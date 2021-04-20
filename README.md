@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://planetr.io/img/logo-large.png"></img>
+<div style="width:500px"><img src="https://planetr.io/img/logo-large.png"></img></div>
 </div>
 
 # Planetr Demo: demo-website
