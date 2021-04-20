@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://planetr.io/img/logo-github.png"></img>
+</div>
 
 # Planetr Demo: demo-website
 Run a Webserver with a static dummy website on Planetr
