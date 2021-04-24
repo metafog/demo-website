@@ -3,11 +3,19 @@
 </div>
 
 # Planetr Demo: demo-website
-Run a Webserver with a static dummy website on Planetr
+Run a Webserver with a dummy website on Planetr decentralised cloud.
 
-## Deploy and run the same docker image on Planetr decentralized cloud
+## Install and run Planetr Gateway on your computer
 
-[Install and run](https://planetr.io/getstarted.html) the Planetr gateway node
+Follow the [Get Started](https://planetr.io/getstarted.html) to install and run the Planetr gateway node. This can be done on your laptop, desktop or any cloud machine.
+
+## Deploy and run the demo docker image on Planetr decentralized cloud
+
+Ensure that planetr gateway is running on your computer. 
+
+```
+$ planetr dcu-ps
+```
 
 Create and run a decentralized compute unit (DCU) on Planetr network
 
