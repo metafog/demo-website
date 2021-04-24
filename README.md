@@ -5,12 +5,6 @@
 # Planetr Demo: demo-website
 Run a Webserver with a static dummy website on Planetr
 
-## Docker usage on local machine 
-```
-docker run -p 9001:3000 -d planetrio/demo-website
-```
-Visit http://localhost:9001/
-
 ## Deploy and run the same docker image on Planetr decentralized cloud
 
 [Install and run](https://planetr.io/getstarted.html) the Planetr gateway node
